@@ -1,0 +1,17 @@
+form{ width: 25%;
+    padding: 3%;
+    margin: auto;
+    background-color: rgb(108, 255, 186);}
+    
+     div{display: ;
+        flex-direction: column;
+        margin: 5%;}
+    
+    label{margin-bottom:  5px;
+    font-weight: bold;}
+    
+    input{ margin-bottom: 12px;}
+    
+    .login{ border: 1px solid black;
+        padding: 15px 5px;
+        background-color: rgb(96, 223, 164);}
