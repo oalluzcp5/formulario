@@ -1,8 +1,9 @@
 form{ width: 25%;
     padding: 3%;
     margin: auto;
-    background-color: rgb(0, 71, 38);}
+    background-color: rgb(58, 99, 79);}
     
+    /*este div hace que no se vea el bloque*/
      div{display: ;
         flex-direction: column;
         margin: 5%;}
