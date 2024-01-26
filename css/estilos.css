@@ -1,7 +1,7 @@
 form{ width: 25%;
     padding: 3%;
     margin: auto;
-    background-color: rgb(58, 87, 99);}
+    background-color: rgb(53, 132, 168);}
     
     /*este div hace que no se vea el bloque*/
      div{display: ;
@@ -15,4 +15,6 @@ form{ width: 25%;
     
     .login{ border: 1px solid black;
         padding: 15px 5px;
-        background-color: rgb(96, 223, 164);}
+        background-color:rgb(97, 191, 235);
+        margin-bottom: 10px;}
+
